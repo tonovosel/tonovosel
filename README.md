@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tomislav
 - 👀 I’m interested in Big Data and analytics
 - 🌱 I’m currently learning Apache NiFi CI/CD
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cloud Data Services
 - 📫 How to reach me - to.novosel@gmail.com or LinkedIn: https://www.linkedin.com/in/tonovosel
 
 <!---
